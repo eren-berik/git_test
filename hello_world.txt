@@ -1,1 +1,2 @@
 Hello Odin Project!
+And hello to others!
